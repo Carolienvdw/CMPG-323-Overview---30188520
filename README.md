@@ -21,3 +21,8 @@ In projects 2 and 3 I will need to store credentials that git should not be able
 
 ## The branching strategy to be used within each project
 I do not have a clearly defined branching strategy, but I will be using the development and the main branches. Knowing that I am the only person working on my projects, I do not see the need in using any other strategy. I will use the develop branch to edit and change my code and then only commit if there are no conflicts or errors.
+
+### References Project 1
+JacquiM. 2022. CMPG 323 Semester Plan Kanban Guide. https://github.com/users/JacquiM/projects/16/views/1 Date of Access: 15 Aug 2022.
+
+Microsoft. 2022. Ignore file changes with Git. https://docs.microsoft.com/en-us/azure/devops/repos/git/ignore-files?view=azure-devops&tabs=visual-studio-2019 Date of Access: 17 Aug 2022.
