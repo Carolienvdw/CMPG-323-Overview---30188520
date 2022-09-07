@@ -26,3 +26,6 @@ I do not have a clearly defined branching strategy, but I will be using the deve
 JacquiM. 2022. CMPG 323 Semester Plan Kanban Guide. https://github.com/users/JacquiM/projects/16/views/1 Date of Access: 15 Aug 2022.
 
 Microsoft. 2022. Ignore file changes with Git. https://docs.microsoft.com/en-us/azure/devops/repos/git/ignore-files?view=azure-devops&tabs=visual-studio-2019 Date of Access: 17 Aug 2022.
+
+##Project 2 API
+Repository link: https://github.com/Carolienvdw/CMPG-323-Project-2--30188520 
