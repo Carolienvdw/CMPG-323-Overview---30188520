@@ -29,3 +29,6 @@ Microsoft. 2022. Ignore file changes with Git. https://docs.microsoft.com/en-us/
 
 ## Project 2 API
 Repository link: https://github.com/Carolienvdw/CMPG-323-Project-2--30188520 
+
+## Project 3 Standards and Patterns
+Repository link: https://github.com/Carolienvdw/CMPG-323-Project-3---30188520/tree/main
