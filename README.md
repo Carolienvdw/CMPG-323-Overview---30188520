@@ -30,5 +30,24 @@ Microsoft. 2022. Ignore file changes with Git. https://docs.microsoft.com/en-us/
 ## Project 2 API
 Repository link: https://github.com/Carolienvdw/CMPG-323-Project-2--30188520 
 
+### References Project 2
+References Project 2
+JWT. Introduction to JSON Web Tokens. https://jwt.io/introduction/ Date of Access: 2 Sept 2022.
+JD BOTS. 2022. Join two entities in .NET Core, using lambda and Entity Framework Core. Join two entities in .NET Core, using lambda and Entity Framework Core Date of Access: 7 Sept 2022.
+
+Microsoft. 2022.Controller action return types in ASP.NET Core web API. https://docs.microsoft.com/en-us/aspnet/core/web-api/action-return-types?view=aspnetcore-6.0 Date of Access: 5 Sept 2022.
+
+Microsoft. 2021. Connection Strings. https://docs.microsoft.com/en-za/ef/core/miscellaneous/connection-strings Date of Access: 6 Sept 2022.
+
+Microsoft. 2022. Tutorial: Create a web API with ASP.NET Core. Tutorial: Create a web API with ASP.NET Core | Microsoft Docs Date of Access: 1 Sept 2022.
+
+Microsoft. 2022. ASP.NET Core web API documentation with Swagger/ OpenAPI.  ASP.NET Core web API documentation with Swagger / OpenAPI | Microsoft Docs Date of Access: 30 Aug 2022.
+
+Microsoft. 2022. Publish an ASP.NET Core web API to Azure API Management with Visual Studio. Publish an ASP.NET Core web API to Azure API Management with Visual Studio | Microsoft Docs Date of Access: 7 Sept 2022.
+
+Pro Code Guid. 2021. Entity Framework Core in ASP.Net Core 3.1 – Getting Started. Entity Framework Core 3.1 - Getting Started Date of Access: 19 Aug 2022.
+StackOverflow. 2010. Join/Where with LINQ and Lambda.  https://stackoverflow.com/questions/2767709/join-where-with-linq-and-lambda Date of Access: 5 Sept 2022.
+
+
 ## Project 3 Standards and Patterns
 Repository link: https://github.com/Carolienvdw/CMPG-323-Project-3---30188520
