@@ -51,3 +51,25 @@ StackOverflow. 2010. Join/Where with LINQ and Lambda.  https://stackoverflow.com
 
 ## Project 3 Standards and Patterns
 Repository link: https://github.com/Carolienvdw/CMPG-323-Project-3---30188520
+
+### References Project 3
+C#Corner. 2012. Architectural Patterns in .NET https://www.c-sharpcorner.com/uploadfile/babu_2082/architectural-patterns-in-net/ Date of Access: 20 Sept. 2022.
+
+C#Corner. 2021. CRUD Operations using the generic repository pattern and dependency inversion principle with IoC container and DI in MVC  https://www.c-sharpcorner.com/UploadFile/3d39b4/crud-operations-using-the-generic-repository-pattern-and-dep/ Date of Access: 26 Sept. 2022.
+
+C#Corner. 2021. Design Petterns in C#.NET https://www.c-sharpcorner.com/UploadFile/bd5be5/design-patterns-in-net/ Date of Access: 20 Sept. 2022.
+
+DotNetTricks. 2022. ASP.NET MVC – View() vs RedirectToAction() vs Redirect() Methods https://www.dotnettricks.com/learn/mvc/return-view-vs-return-redirecttoaction-vs-return-redirect-vs-return-redirecttoroute#:~:text=The%20RedirectToAction()%20Method,acts%20just%20like%20as%20Response. Date of Access: 21 Sept. 2022.
+
+FreeCodeCamp. 2022. SOLID definition – the SOLID principles of Object-Oriented design explained https://www.freecodecamp.org/news/solid-principles-single-responsibility-principle-explained/#:~:text=The%20Single%20Responsibility%20Principle%20(SRP,only%20one%20reason%20to%20change%22. Date of Access: 26 Sept. 2022.
+
+Includehelp. 2019. List<T>.AddRange() method with example in C# https://www.includehelp.com/dot-net/list-t-addrange-method-with-example-in-c-sharp.aspx#:~:text=AddRange()%20method%20is%20used,the%20end%20of%20the%20list. Date of Access: 25 Sept. 2022.
+
+JacquiM. 2022. CMPG 323 IOT Device Management https://github.com/JacquiM/CMPG-323-IOT-Device-Management Date of Access: 19 Sept. 2022.
+
+Microsoft Ignite. 2020. ASP.NET MVC Overview https://learn.microsoft.com/en-us/aspnet/mvc/overview/older-versions-1/overview/asp-net-mvc-overview Date of Access: 19 Sept. 2022.
+
+Microsoft Ignite. 2022. Build web apps with ASP.NET Core for beginners https://learn.microsoft.com/en-us/training/paths/aspnet-core-web-app/ Date of Access: 19 Sept. 2022.
+
+Stack overflow. 2021. Cannot convert from ‘System.Guid?’ to ‘System.guid’  https://stackoverflow.com/questions/1988415/cannot-convert-from-system-guid-to-system-guid Date of Access: 22 Sept. 2022
+
