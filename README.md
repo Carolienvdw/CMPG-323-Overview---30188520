@@ -73,3 +73,29 @@ Microsoft Ignite. 2022. Build web apps with ASP.NET Core for beginners https://l
 
 Stack overflow. 2021. Cannot convert from ‘System.Guid?’ to ‘System.guid’  https://stackoverflow.com/questions/1988415/cannot-convert-from-system-guid-to-system-guid Date of Access: 22 Sept. 2022
 
+## Project 3 RPA and Testing
+Repository lik: https://github.com/Carolienvdw/CMPG-323-Project-4---30188520 
+
+### References Project 4
+F-Pen IT blog. 2021. Text retrieval and data scraping form web pages with Uipath. https://penrako.com/eng/uipathtextdatascraping/ Date of Access: 25 Oct 2022.
+
+Uipath. 2020. Your first process automation. https://www.youtube.com/watch?v=OyQAhrcBr9U&ab_channel=UiPath Date of Access: 17 Oct 2022.
+
+Uipath. 2022. Tutorials. https://docs.uipath.com/studio/v2022.10/docs/tutorials Date of Access: 17 Oct 2022.
+
+Uipath Forum. 2021. https://forum.uipath.com/t/data-scraping-and-screen-scraping-gone/297745/3 Date of Access: 18 Oct 2022.
+
+RPA Learners. 2020. How to create a DataTable from Excel in Uipath. https://rpalearners.com/how-to-create-a-datatable-from-excel-in-uipath/#:~:text=By%20using%20an%20Excel%20application,to%20create%20a%20data%20table.&text=If%20the%20excel%20file%20has,will%20save%20the%20file%20automatically.  Date Of Access: 18 Oct 2022.
+
+Uipath. 2021. Remove dataRow/Column. https://docs.uipath.com/activities/docs/remove-data-row-column Date of Access: 17Oct 2022.
+
+Uipath Forum. 2018. How to import Excel data into web application. https://forum.uipath.com/t/how-to-import-excel-data-into-web-application/69365/2 Date of Access: 21 Oct 2022.
+
+Uipath Forum. 2020. Replace ID and password for website login. https://forum.uipath.com/t/replace-id-and-password-for-website-login/221289  21 Oct 2022.
+
+Uipath. 2021. How to update data column values of a date table. https://www.uipath.com/community/rpa-community-blog/options-for-updating-data-table-column-values Date of Access: 21 Oct 2022.
+
+Uipath Forum. 2017. Option strict on late binding. https://forum.uipath.com/t/option-strict-on-disallows-late-binding/5067 Date of Access: 24 Oct 2022.
+
+Uipath Forum. 2021. Create list and add values to collection. https://forum.uipath.com/t/create-list-and-add-values-to-collection/349982/2 Date of Access: 26 Oct 2022.
+
