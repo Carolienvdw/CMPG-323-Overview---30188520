@@ -10,7 +10,7 @@ Project 5 will  also have one repository named CMPG-323-Project5---30188520.
 
 ## Project and repository context
 My Portfolio of Evidence will contain 5 projects as can be seen in the diagram below. These projects will consist out of repositories and/or projects. As described in the diagram below, every project will be linked to the CMPG-323-Overview---30188520 repository. In turn every project of a project will be connected to its own repository and that repository will then be connected to the Overview repository.
-![image](https://user-images.githubusercontent.com/88189130/185105700-1f5b7778-629e-42b9-9830-b6b4ed39cc2c.png)
+
 ![image](https://user-images.githubusercontent.com/88189130/202387833-7f353788-6701-4bc2-be57-b66f81ac37bb.png)
 
 
